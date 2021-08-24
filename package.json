@@ -1,0 +1,20 @@
+{
+  "name": "Personal-blog",
+  "version": "1.0.0",
+  "description": "第一次利用 vuepress 来制作博客，以此来验证如何学习制作博客",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baimengxin/Personal-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baimengxin/Personal-blog/issues"
+  },
+  "homepage": "https://github.com/baimengxin/Personal-blog#readme"
+}
