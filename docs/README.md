@@ -4,7 +4,7 @@ heroImage: /assets/img/001.jpg
 heroText: 白
 tagline:  小白萌新
 actionText: Start →
-actionLink: /guide/about
+actionLink: /guide/about/
 footer: MIT Licensed | Copyright © 2021 bai |
 ---
 
