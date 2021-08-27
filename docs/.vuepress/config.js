@@ -32,7 +32,8 @@ module.exports = {
             ],
             '/guide/notes/advanced/Sprogram/': [
                 '',
-                'cs'
+                'cs',
+                '黑马优购'
             ],
 
             // 注意：首页不能写在最前面，不然会只剩下首页的侧边栏
@@ -40,6 +41,8 @@ module.exports = {
             '/': [
                 ''
             ],
-        }
+        },
+        // 获取每个文件最后一次 git 提交的 UNIX 时间戳
+        lastUpdated: '更新时间', // string | boolean
     }
 }
