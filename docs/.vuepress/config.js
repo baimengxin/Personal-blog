@@ -9,15 +9,15 @@ module.exports = {
                 items: [
                     {
                         text: 'vue',
-                        link: '/guide/notes/advanced/vue'
+                        link: '/guide/notes/advanced/vue/about'
                     },
                     {
                         text: '微信小程序',
-                        link: '/guide/notes/advanced/Sprogram'
+                        link: '/guide/notes/advanced/Sprogram/ce'
                     }
                 ]
             },
-            { text: '关于', link: '/about' },
+            { text: '关于', link: '/guide/about/about' },
             { text: 'github', link: 'https://github.com/baimengxin' },
         ],
     }
