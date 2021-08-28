@@ -1,6 +1,6 @@
 // .vuepress/config.js
 module.exports = {
-    base: '/docs/',
+    base: '/Personal-blog/',
     themeConfig: {
         // logo设置
         logo: '/assets/img/hero.png',
